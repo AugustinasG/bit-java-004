@@ -1,4 +1,5 @@
 console.log('-------------------');
+console.log('bit js 04');
 
 let a = false;
 

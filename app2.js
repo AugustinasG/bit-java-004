@@ -1,4 +1,5 @@
 console.log('app2.js');
+console.log('bit js 04');
 
 const s1 = document.querySelector('#s1');
 
